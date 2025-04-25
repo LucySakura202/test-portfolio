@@ -1,3 +1,5 @@
+ ![Banner](project_images/Banner_for_Comp_Sci.png)
+
 # Principal Investigator for a Research Team
 
 ### About Me 
