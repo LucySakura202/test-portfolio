@@ -1,6 +1,6 @@
 -config.yml File Content
-title: Lucy Sakura
+title: Lucy Sakura Portfolio
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
-theme: jekyll_theme_minima
+theme: jekyll-theme-minima
