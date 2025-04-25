@@ -10,7 +10,7 @@ Loyola University, MD
 ### Projects
 
 #### J Doodle Grade Calculator
- - ![Project Image](/Portfolio Images/Grading Calculator.png)
+ - ![Project Image](Portfolio Images /Grading Calculator.png)
  - I decided to make each personality type a variable and add one point to it each time its corresponding answer was chosen, then display the personality type with the most points.
 
 ***
