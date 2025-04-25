@@ -10,15 +10,15 @@ Loyola University, MD
 ### Projects
 
 #### J Doodle Grade Calculator
- - image
- - write up
+ - ![Project Image](/Portfolio Images/Grading Calculator.png)
+ - I decided to make each personality type a variable and add one point to it each time its corresponding answer was chosen, then display the personality type with the most points.
 
 ***
 #### Access Grade Calculator
  - image
- - write up
+ - This helps me determine what grade I need on an assignment to get a certain class grade, when I only know the scores I got on previous assignments. I also can predict my grade.
 
 ***
 #### Personality Quiz 
  - image
- - write up
+ - Instead of just giving you one class grade, it averages your grades for five classes per semester, and 6 semesters total, and provides you with a more professional looking and comprehensive summary than Python. 
