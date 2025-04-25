@@ -11,7 +11,7 @@ Loyola University, MD
 
 #### J Doodle Grade Calculator
  - image
- - Report
+ - write up
 
 ***
 #### Access Grade Calculator
